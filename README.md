@@ -49,3 +49,13 @@ Catalogo utenti:
 - Elenco prestiti in corso
 - Cronologia prestiti passati
 - Restituzione libro
+
+
+#Vincoli
+
+Il software richiede l’accesso a internet per il recupero delle informazioni grafiche dei libri. Non necessita di accesso per la semplice visualizzazione di informazioni testuali dei libri e dell’inserimento manuale e non assistito di nuovi libri nella parte di amministrazione. **Sono integrate le Amazon Product Advertising API per recuperare i dettagli di ogni libro inserito tramite codice a barre**
+
+#Dipendenze
+
+Non sono necessarie conoscenze particolari per utilizzare il software.
+Gli amministratori devono essere solamente istruiti per l’utilizzo del software in maniera adeguata.
