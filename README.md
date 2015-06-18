@@ -5,6 +5,8 @@ _Il progetto è estramamente didattico e ben documentato, utile per progetti Jav
 
 _Ho deciso di renderlo pubblico molto più tardi rispetto alla sua creazione quindi ad oggi potrebbe contenere anche codice deprecato. In ogni caso, per l'utilizzo in classe/distribuzione come demo menzionare l'autore originale e questo repository_
 
+**Si consiglia di vedere il documento "Tesina.pdf" per maggiori dettagli**
+
 ## Ambito di validità
 Il fine principale del software è la gestione di una biblioteca, agevolando la fase di amministrazione e quella di prestito dei libri da parte degli utenti della biblioteca.
 Si farà riferimento a una singola biblioteca, contenente un numero variabile di libri e di utenti, ogni libro in singola copia.
